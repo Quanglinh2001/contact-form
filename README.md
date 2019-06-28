@@ -1,2 +1,2 @@
 # Contact-Form
-Contact form design with HTML and CSS
+Here I create a simple contact form with menu bar designed with HTML and CSS.  
